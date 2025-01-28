@@ -1,0 +1,16 @@
+filename = 'deeperdarker-forge-1.19.2-1.2.2.jar'
+name = 'Deeper and Darker'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '337e7f1c54979fc84dbea2edbe293fd1950ea121'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4812297
+project-id = 659011

@@ -1,0 +1,16 @@
+filename = 'the_bumblezone_forge-6.9.10+1.19.2.jar'
+name = 'The Bumblezone (NeoForge/Forge)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'be01db3f3208ceacf2a680d0146e3f5eb8b1a4a6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5234182
+project-id = 362479

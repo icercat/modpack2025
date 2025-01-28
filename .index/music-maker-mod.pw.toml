@@ -1,0 +1,16 @@
+filename = 'xercamusic-1.19.2-1.1.1.jar'
+name = 'Music Maker Mod'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '447dacf0c39d309671d53065e7a4b0fc4db18554'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5576657
+project-id = 341448

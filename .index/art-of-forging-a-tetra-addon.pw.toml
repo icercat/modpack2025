@@ -1,0 +1,16 @@
+filename = 'art_of_forging-1.7.5-1.19.2.jar'
+name = 'Art of Forging: A Tetra Addon'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'fd8777fe1ce27ce8b0c4b02da012179ea28d3af7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5364397
+project-id = 596955

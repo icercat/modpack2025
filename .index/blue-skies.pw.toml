@@ -1,0 +1,16 @@
+filename = 'blue_skies-1.19.2-1.3.20.jar'
+name = 'Blue Skies'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '021d984448afab3d062c62bc09f94b766f51c3a7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3966273
+project-id = 312918

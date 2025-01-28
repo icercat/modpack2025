@@ -1,0 +1,16 @@
+filename = 'teamprojecte-1.19.2-1.1.2.jar'
+name = 'Team ProjectE'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '60849ae7dd9944e3aef81083283fcde0c8346298'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4882956
+project-id = 689273

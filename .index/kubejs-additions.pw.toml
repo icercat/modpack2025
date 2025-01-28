@@ -1,0 +1,16 @@
+filename = 'kubejsadditions-forge-3.2.3.jar'
+name = 'KubeJS Additions'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8f01734238fe55d5df90e8489fda9b07ee1df5a3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5817548
+project-id = 594387

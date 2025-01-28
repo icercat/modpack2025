@@ -1,0 +1,16 @@
+filename = 'Lifesteal-3.0.0.0.jar'
+name = 'Lifesteal Enchant'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19-Snapshot', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'aa7a0d2d2b27d82adca982cfbcac0c64bb91c369'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4375847
+project-id = 820802

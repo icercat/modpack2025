@@ -1,0 +1,16 @@
+filename = 'dummmmmmy-1.19.2-1.7.1.jar'
+name = 'MmmMmmMmmMmm (Target Dummy)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '27dba288fb5435f2b110ea31ea5f1209c71a93d6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4410143
+project-id = 225738

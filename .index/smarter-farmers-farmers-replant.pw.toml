@@ -1,0 +1,16 @@
+filename = 'smarterfarmers-1.19.2-1.7.1.jar'
+name = 'Smarter Farmers (farmers replant)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6c7232d7508a54f811ae149c05fc990b62c944cb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4381343
+project-id = 491290

@@ -1,0 +1,16 @@
+filename = 'fancymenu_video_extension_forge_1.1.1_MC_1.19-1.19.2.jar'
+name = 'Video Extension for FancyMenu v2 [Forge]'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6f991261c7c949fe307d29d4309b228aad785601'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3928278
+project-id = 591711

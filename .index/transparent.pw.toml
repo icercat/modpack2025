@@ -1,0 +1,16 @@
+filename = 'transparent-5.1.2+1.19-forge.jar'
+name = 'Transparent'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cc03e21c91de8a7585d36623e7ece2b4521571ed'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4031058
+project-id = 377582

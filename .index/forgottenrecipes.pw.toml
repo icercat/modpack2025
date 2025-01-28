@@ -1,0 +1,16 @@
+filename = 'forgottenrecipes-forge-1.19-1.0.1.jar'
+name = 'Forgotten Recipes - Sculk Sensor, Crying Obsidian, Leather and Powder Snow Recipe'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '268fbbe5bf1f4e8048df624f1fd67f91c3a4d09b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3895133
+project-id = 496392

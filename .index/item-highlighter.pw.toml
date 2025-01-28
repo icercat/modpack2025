@@ -1,0 +1,16 @@
+filename = 'Highlighter-1.19.1-1.1.4.jar'
+name = 'Item Highlighter [Neo/Forge]'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3551e5c46cfdc0e702adcf7fc91660f15df44c45'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3907155
+project-id = 521590

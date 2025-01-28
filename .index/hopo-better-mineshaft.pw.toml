@@ -1,0 +1,16 @@
+filename = 'HopoBetterMineshaft-[1.19-1.19.3]-1.1.6.jar'
+name = 'Hopo Better Mineshaft (Fabric/Forge/NeoForge)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2', '1.19.3', '1.20-Snapshot' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9be13bc258fe29a6443013aedd142d95455a5b88'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4391679
+project-id = 623723

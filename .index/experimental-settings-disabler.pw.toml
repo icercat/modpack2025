@@ -1,0 +1,16 @@
+filename = 'experimentalsettingsdisabler-1.19.2-1.0.jar'
+name = 'Experimental Settings Disabler'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '14addd9f63c9d619b7bb7af233f3f9dec068d569'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4810591
+project-id = 926083

@@ -1,0 +1,16 @@
+filename = 'ars_nouveau-1.19.2-3.23.0.jar'
+name = 'Ars Nouveau'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dfb3539c47355499835e0ef7357d53373f3c8292'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5171729
+project-id = 401955

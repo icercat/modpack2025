@@ -1,0 +1,16 @@
+filename = 'arsomega-1.19.2-3.2.0-beta-1.jar'
+name = 'Ars Omega'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '358440ceb5bd22d75f3d5eaa974ab6a648cbd784'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4985812
+project-id = 597007

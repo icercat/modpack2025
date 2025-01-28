@@ -1,0 +1,16 @@
+filename = 'phi-1.19-3.2.jar'
+name = 'Phi (Psi addon)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2', '1.19.3', '1.19.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c613d399a8d83ff56c479ee4a147cd839e7fd6af'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5298454
+project-id = 476728

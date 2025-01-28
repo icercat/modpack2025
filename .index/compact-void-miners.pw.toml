@@ -1,0 +1,16 @@
+filename = 'CompactVoidMiners-R1.19.2-1.20.jar'
+name = 'Compact Void Miners'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7d7552b9c198abd93c701cae8480676ab632bef5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3934624
+project-id = 395607

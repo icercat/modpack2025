@@ -1,0 +1,16 @@
+filename = 'torchmaster-19.2.93.jar'
+name = 'Torchmaster'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '678890ce4af28f05004a2097b83a96b401331bd8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4669791
+project-id = 254268

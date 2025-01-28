@@ -1,0 +1,16 @@
+filename = 'HangGlider-v4.0.0-1.19.2-Forge.jar'
+name = 'Hang Glider [Forge & Fabric]'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '373419d172cd78e6a6a03760a80caaaed3a8af04'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4499066
+project-id = 852668

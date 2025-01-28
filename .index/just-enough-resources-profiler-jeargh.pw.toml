@@ -1,0 +1,16 @@
+filename = 'jeargh-1.19.2-1.0.2.jar'
+name = 'Just Enough Resources Profiler (JEARGH)'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '446eca7eb03571fb62669cd2340f1a9d44a0819e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4807593
+project-id = 919773

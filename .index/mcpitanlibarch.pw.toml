@@ -1,0 +1,16 @@
+filename = 'mcpitanlib-3.1.3-1.19.2-forge.jar'
+name = 'MCPitanLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b988d4eca2ca45e35f5701cf042956034c604c248cc29df13e99b349a72e297f7eccdf7c1af4f00dfae376f46719a7cccd8fe924c7591fa1225520e34268e3d8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uNRoUnGT/versions/URWpJagf/mcpitanlib-3.1.3-1.19.2-forge.jar'
+
+[update.modrinth]
+mod-id = 'uNRoUnGT'
+version = 'URWpJagf'

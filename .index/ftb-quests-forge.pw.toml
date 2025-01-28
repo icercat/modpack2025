@@ -1,0 +1,16 @@
+filename = 'ftb-quests-forge-1902.5.8-build.345.jar'
+name = 'FTB Quests (Forge)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'fc11b0a00bfa6d54c378add9f34f6df9d282c1b9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5060506
+project-id = 289412

@@ -1,0 +1,16 @@
+filename = 'ars_industria-1.19.2-1.0.jar'
+name = 'Ars Industria'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6b5651473fe27e6e4fe70718f4a73a470556b903'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4714532
+project-id = 782636

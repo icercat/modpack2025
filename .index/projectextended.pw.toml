@@ -1,0 +1,16 @@
+filename = 'ProjectExtended-1.19.2-1.4.1.jar'
+name = 'ProjectExtended'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9967cd8b59e085109578998a32d54b4e79c12c38'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4841124
+project-id = 353775

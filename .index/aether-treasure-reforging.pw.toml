@@ -1,0 +1,16 @@
+filename = 'aether_treasure_reforging-1.19.2-1.0.1-forge.jar'
+name = 'Aether Addon: Treasure Reforging'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '54cbd436b189d1259009631c867ef6eb4e78c463'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5759734
+project-id = 1016302

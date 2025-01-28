@@ -1,0 +1,16 @@
+filename = 'Terralith_1.19.3_v2.3.12.jar'
+name = 'Terralith'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge', 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2', '1.19.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '746d0a2b3347d7821d6d81ece69ab07cdc90a8f9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4823693
+project-id = 513688

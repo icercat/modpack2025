@@ -1,0 +1,16 @@
+filename = 'AdditionalEnchantedMiner-1.19.2-1192.4.96.jar'
+name = 'Additional Enchanted Miner'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f0791c95469a625f6e0a309a5be1fca43ed2c8ae'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5655726
+project-id = 282837

@@ -1,0 +1,16 @@
+filename = 'dankstorage-1.19.2-5.1.6.jar'
+name = 'Dank Storage'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1e03e9047fc9b3c2ff3982e259bbcdd1be723190'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4395369
+project-id = 335673

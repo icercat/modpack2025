@@ -1,0 +1,16 @@
+filename = 'kubejs-forge-1902.6.2-build.63.jar'
+name = 'KubeJS'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1e58ceb6f84b27897b4d9fbfabfbe7593bf9eda0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5120839
+project-id = 238086

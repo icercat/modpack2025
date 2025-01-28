@@ -1,0 +1,16 @@
+filename = 'BotanyTrees-Forge-1.19.2-5.0.15.jar'
+name = 'Botany Trees'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = 'a28ab3f8be98224bb41f59a0a52d5cf20dda02ac'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5086379
+project-id = 411357

@@ -1,0 +1,16 @@
+filename = 'createqol-1.19.2-1.2-fix1.jar'
+name = 'Create: Quality Of Life'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '776e04130fddb993e63ecf16e7c7210d634413de'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5868341
+project-id = 905508

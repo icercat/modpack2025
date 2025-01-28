@@ -1,0 +1,16 @@
+filename = 'lootr-forge-1.19-0.4.27.71.jar'
+name = 'Lootr (Forge & NeoForge)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '610fcfcc59e0184668febc3fc32265a833bd429c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5221743
+project-id = 361276

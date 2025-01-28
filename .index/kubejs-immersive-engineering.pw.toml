@@ -1,0 +1,16 @@
+filename = 'kubejs-immersive-engineering-1902.2.3-build.18.jar'
+name = 'KubeJS Immersive Engineering'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '412fcd1e5eac90918991de01578b5e18dad9a906'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4842994
+project-id = 421770

@@ -1,0 +1,16 @@
+filename = 'mob_grinding_utils-1.19.2-0.4.52.jar'
+name = 'Mob Grinding Utils'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c446c9c8fc8150e72647802910bed100afbb21f7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5131445
+project-id = 254241

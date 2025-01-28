@@ -1,0 +1,16 @@
+filename = 'SimpleRPC-forge-1.19-3.2.4.jar'
+name = 'Simple Discord RPC'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2', '1.19.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7ce4bc33a587cc984145175d8b7bad5b489b119f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4776516
+project-id = 411816

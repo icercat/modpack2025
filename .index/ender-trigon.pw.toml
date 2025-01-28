@@ -1,0 +1,16 @@
+filename = 'endertrigon-1.0.jar'
+name = 'Ender Trigon'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '25c85b1ab02c7c1f8f9738fa7168b2b11c4c85fb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3942476
+project-id = 662563

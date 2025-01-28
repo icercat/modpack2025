@@ -1,0 +1,16 @@
+filename = 'aether-redux-2.0.16c-1.19.2-forge.jar'
+name = 'The Aether: Redux'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '94668ed658b2165e8f060c91f450482d2cba141d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5415982
+project-id = 867237

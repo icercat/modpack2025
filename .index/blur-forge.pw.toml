@@ -1,0 +1,16 @@
+filename = 'blur-forge-3.1.1+mc1.19.2.jar'
+name = 'Blur (Forge)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3dee4972a73b0d19cced5b8d21f64f163a4d455c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4906350
+project-id = 823106

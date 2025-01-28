@@ -1,0 +1,16 @@
+filename = 'dimasctetracompat-1.19.2-1.4.0.1.jar'
+name = 'Dimensional Ascension - Blue Skies Tetra Compatibility'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0a17851bb7f0187e519037f7247e06dd6d199d1d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5090796
+project-id = 957340

@@ -1,0 +1,16 @@
+filename = 'Emojiful-Forge-1.19.2-4.0.5-all.jar'
+name = 'Emojiful'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a457b891471e478f5201411cbd87a80c28be9e42'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4787472
+project-id = 284324

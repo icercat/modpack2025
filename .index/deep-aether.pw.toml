@@ -1,0 +1,16 @@
+filename = 'deep_aether-1.19.2-1.0.2.jar'
+name = 'Deep Aether'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cdd2f30faac9172a4da958dd92e7172926ea9713'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5076615
+project-id = 852465

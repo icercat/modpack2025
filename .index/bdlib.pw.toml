@@ -1,0 +1,16 @@
+filename = 'bdlib-1.25.0.5-mc1.19.2.jar'
+name = 'BdLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '919f535e563865404fd7002423c3a2315967d244'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4100704
+project-id = 70496

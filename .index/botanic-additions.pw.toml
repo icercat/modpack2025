@@ -1,0 +1,16 @@
+filename = 'BotanicAdditions-1.19.2-19.3.7.jar'
+name = 'Botanic Additions'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '465c87f57dfd4ef052d3b911c4858b7a9ece989e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6028665
+project-id = 310637

@@ -1,0 +1,16 @@
+filename = 'gravestone-forge-1.19.2-1.0.15.jar'
+name = 'GraveStone Mod'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6f185bcd5f9e2b1495e7704c80aeca52db2def79'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5197325
+project-id = 238551

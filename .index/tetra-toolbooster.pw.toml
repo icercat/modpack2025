@@ -1,0 +1,16 @@
+filename = 'toolbooster-1.0-1.19.2.jar'
+name = 'Tetra Toolbooster'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9bbc391a324ddda03ee63b246b8a44cd62f1ca9c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4390941
+project-id = 825333

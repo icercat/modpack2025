@@ -1,0 +1,16 @@
+filename = 'Jade-1.19.1-forge-8.9.1.jar'
+name = 'Jade 🔍'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '73fceb55299091c1ce1a6b81264c65990630fe18'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4800904
+project-id = 324717

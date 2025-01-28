@@ -1,0 +1,16 @@
+filename = 'SandBox-1.19.2-1.0.1.jar'
+name = 'Sand Box'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '62e101df0ce8ce6787b34cb21d480355d7908b77'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4029683
+project-id = 653732

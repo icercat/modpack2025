@@ -1,0 +1,16 @@
+filename = 'arseng-1.0.2.jar'
+name = 'Ars Énergistique'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '27ea8aa0f9cb69a334f72ea9a913b3c30b0ac689b5c64923dfda5b95cba2fd24bae30105ddbc3155cb9a0357e21715a720d88370a7a5baaade0a905eafcc37f6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IJI3QuK8/versions/QzSL3Wdt/arseng-1.0.2.jar'
+
+[update.modrinth]
+mod-id = 'IJI3QuK8'
+version = 'QzSL3Wdt'
