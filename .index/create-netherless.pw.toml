@@ -1,0 +1,16 @@
+filename = 'create_netherless-1.19.2-1.3.jar'
+name = 'Create: Netherless (Forge)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '77fe4031abf7efcdee7c3ae8f928c7d4d69edc90'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4645610
+project-id = 881506

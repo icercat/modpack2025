@@ -1,0 +1,16 @@
+filename = 'createappliedkinetics-1.4-1.19.2.jar'
+name = 'Create: Applied Kinetics'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '064b8d2fec15363135611e7502041e44a3b17a6b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5686016
+project-id = 867328

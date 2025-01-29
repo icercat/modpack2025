@@ -1,0 +1,16 @@
+filename = 'tfmg-0.9.3-1.19.2.jar'
+name = 'Create: The Factory Must Grow'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2a8e9be1bc08b9390d90ca7066c29d728185455b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5811618
+project-id = 693815
