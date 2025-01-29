@@ -1,0 +1,16 @@
+filename = 'CurioSlot.jar'
+name = 'Curio Slot'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ad7ec814c7feb7a9a7b534b93e67a8a13602c902'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5636847
+project-id = 1085475
