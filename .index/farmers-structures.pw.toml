@@ -1,0 +1,16 @@
+filename = 'FarmersStructures-1.0.0-1.19.2.jar'
+name = 'Farmers Structures'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'adbf96c5a95d74b09cece291780409a7a49611be'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5656711
+project-id = 1088877
